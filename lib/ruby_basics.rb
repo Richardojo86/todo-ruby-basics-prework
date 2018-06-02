@@ -19,9 +19,9 @@ phrase
 end
 
 def last_evaluated_value
-
+phrase
 end
 
 def pizza_party
-
+phrase
 end
